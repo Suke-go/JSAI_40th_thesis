@@ -1,0 +1,49 @@
+This is upBibTeX, Version 0.99d-j0.36-u2.00 (utf8.euc) (TeX Live 2026/dev/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: template-j.aux
+The style file: jsai.bst
+Database file #1: btxsample.bib
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+You've used 84 entries,
+            3266 wiz_defined-function locations,
+            1160 strings with 21080 characters,
+and the built_in function-call counts, 51259 in all, are:
+= -- 4645
+> -- 1942
+< -- 134
++ -- 723
+- -- 708
+* -- 3398
+:= -- 6439
+add.period$ -- 0
+call.type$ -- 84
+change.case$ -- 608
+chr.to.int$ -- 82
+cite$ -- 84
+duplicate$ -- 2627
+empty$ -- 4087
+format.name$ -- 1230
+if$ -- 11995
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 89
+newline$ -- 255
+num.names$ -- 172
+pop$ -- 1083
+preamble$ -- 1
+purify$ -- 774
+quote$ -- 0
+skip$ -- 3238
+stack$ -- 0
+substring$ -- 2151
+swap$ -- 769
+text.length$ -- 134
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 930
+warning$ -- 0
+while$ -- 322
+width$ -- 90
+write$ -- 930
+is.kanji.str$ -- 1532

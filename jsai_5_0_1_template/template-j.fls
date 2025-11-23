@@ -1,0 +1,6 @@
+PWD /home/ksk432/JSAI_40th_thesis/jsai_5_0_1_template
+INPUT /usr/share/texmf-dist/web2c/texmf.cnf
+INPUT /usr/share/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/euptex/platex.fmt
+INPUT sty/template-j.tex
+OUTPUT template-j.log

@@ -1,0 +1,184 @@
+This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.euc) (TeX Live 2026/dev/Arch Linux) (preloaded format=platex 2025.10.12)  31 OCT 2025 14:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**jsai_5_0_1_template/sty/template-j.tex
+(./jsai_5_0_1_template/sty/template-j.tex
+pLaTeX2e <2023-02-14>+1, based on
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/home/ksk432/JSAI_40th_thesis/jsai_5_0_1_template/sty/jsaiart.cls
+Document Class: jsaiart 1999/09/20
+(/home/ksk432/JSAI_40th_thesis/jsai_5_0_1_template/sty/jsai2e.cls
+Document Class: jsai2e 1999/09/20
+(/usr/share/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/home/ksk432/texmf/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+\c@@paper=\count195
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 210.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
+10.
+
+(/home/ksk432/texmf/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 302.
+\AuthItemHsizeSmall=\skip49
+\AuthItemHsizeLarge=\skip50
+\@authorcnt=\count196
+\@totalnumber=\count197
+\@alcnt=\count198
+\@tempboxa=\box69
+\@tempboxb=\box70
+\@tempdima=\dimen157
+\@keywordbox=\box71
+\@summarybox=\box72
+\@tempboxc=\box73
+\@tempskip=\skip51
+\@jiwaribox=\box74
+\c@part=\count199
+\c@chapter=\count266
+\c@section=\count267
+\c@subsection=\count268
+\c@subsubsection=\count269
+\c@paragraph=\count270
+\c@subparagraph=\count271
+\capwidth=\dimen158
+\abovecaptionskip=\skip52
+\belowcaptionskip=\skip53
+\c@figure=\count272
+\c@table=\count273
+\@Tempboxa=\box75
+\@Tempboxb=\box76
+\@Tempdima=\dimen159
+\verbatimleftmargin=\dimen160
+\verbatimbaselineskip=\dimen161
+\symmincho=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 1592.
+\toclineskip=\dimen162
+\@lnumwidth=\dimen163
+\evennodoshift=\dimen164
+\oddnodoshift=\dimen165
+\evenkoguchishift=\dimen166
+\oddkoguchishift=\dimen167
+\mathindent=\dimen168
+))
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 17.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+
+\citation{arksey2005,levac2010}
+
+LaTeX Warning: Citation `arksey2005' on page 1 undefined on input line 27.
+
+
+LaTeX Warning: Citation `levac2010' on page 1 undefined on input line 27.
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2024-05-08 L3 backend support: dvips
+\l__pdf_internal_box=\box77
+\l__pdf_backend_content_box=\box78
+\l__pdf_backend_model_box=\box79
+\g__pdf_backend_annotation_int=\count274
+\g__pdf_backend_link_int=\count275
+\g__pdf_backend_link_sf_int=\count276
+)
+(build/template-j/template-j.aux)
+\openout1 = `template-j.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <10> not available
+(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <10> not available
+(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 32.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 32.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 3
+2.
+
+(/home/ksk432/texmf/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `JT1/mc/m/sl' in size <12> not available
+(Font)              Font shape `JT1/mc/m/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `JY1/mc/m/sl' in size <12> not available
+(Font)              Font shape `JY1/mc/m/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 32.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 23.94002pt on input line 32.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 32.
+LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <14.4> not available
+(Font)              Font shape `JT1/mc/bx/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `JY1/mc/b/n' in size <14.4> not available
+(Font)              Font shape `JY1/mc/bx/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 32.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 32
+.
+
+(/usr/share/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.73553pt on input line 32.
+LaTeX Font Info:    External font `min5 at5.175pt' loaded for size
+(Font)              <5> on input line 32.
+LaTeX Font Info:    External font `min6 at5.916pt' loaded for size
+(Font)              <6> on input line 32.
+LaTeX Font Info:    External font `min8 at8.128pt' loaded for size
+(Font)              <8> on input line 32.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
+2.
+
+(/home/ksk432/texmf/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `JT1/mc/b/n' in size <12> not available
+(Font)        

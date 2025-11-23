@@ -1,0 +1,12 @@
+# Fdb version 4
+["pdflatex"] 1761904105.13294 "jsai_5_0_1_template/sty/template-j.tex" "template-j.pdf" "template-j" 1761904105.33408 2
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1755987285 42087 b0f9697c952c8f5a8eede4134282cb0d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1760246558 2060252 bb4e9d6b3f7ae0227136102ef73a2ec8 ""
+  "jsai_5_0_1_template/sty/template-j.tex" 1761904088.0132 52595 66218ef5ed2ba8ec295ef82d9f38be9a ""
+  "jsaiart.cls" 0 -1 0 ""
+  "template-j.aux" 1761904105.13066 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  (generated)
+  "template-j.aux"
+  "template-j.log"
+  "template-j.pdf"
+  (rewritten before read)
